@@ -22,3 +22,14 @@ dataset/
 
 # Jupyter
 .ipynb_checkpoints/
+
+.test_gpu.py
+
+# Generated AI embeddings
+embeddings/*.npy
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
